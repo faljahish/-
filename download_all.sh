@@ -37,9 +37,6 @@ dl "07_Police_Legal_Security_Studies_Jan2026.pdf"  "https://portal.moi.gov.qa/po
 dl "07_Police_Legal_Security_Studies_Jul2025.pdf"  "https://portal.moi.gov.qa/policecollege/publications/studies_july2025.pdf"
 dl "07_Police_Legal_Security_Studies_Jan2025.pdf"  "https://portal.moi.gov.qa/policecollege/publications/studies_jan2025.pdf"
 
-echo
-echo "Done. Files are in: $(pwd)"
-echo "Archive.org books (الماوردي، ابن تيمية، السنهوري) are large — download them from the links in the .md file (DOWNLOAD OPTIONS → PDF)."
 
 # Added: official gazette PDFs (SJC encyclopedia) and archive.org books
 dl "01_Amiri_Decision_22_2005_QIA.pdf" "https://encyclop.sjc.gov.qa/lawlib/Files/ViewPDF.aspx?id=12846"
@@ -48,3 +45,6 @@ dl "06_Mawardi_Ahkam_Sultaniyya_1909.pdf" "https://archive.org/download/1327-190
 dl "06_Ibn_Taymiyya_Siyasa_Shariyya.pdf" "https://archive.org/download/amatullah0911_gmail_20161011/%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A%20%D9%88%D8%A7%D9%84%D8%B1%D8%B9%D9%8A%D8%A9%20-%20%D8%A7%D8%A8%D9%86%20%D8%AA%D9%8A%D9%85%D9%8A%D8%A9.pdf"
 dl "06_Sanhuri_Masadir_al-Haqq_1-3.pdf" "https://archive.org/download/masadir-hak-fi-fikh-islami-senhuri/Masadir%20hak%20fi%20fikh%20islami%20-%20senhuri%201-2-3.pdf"
 dl "06_Sanhuri_Masadir_al-Haqq_4-6.pdf" "https://archive.org/download/masadir-hak-fi-fikh-islami-senhuri/Masadir%20hak%20fi%20fikh%20islami%20-%20senhuri%204-5-6.pdf"
+
+echo
+echo "Done. Files are in: $(pwd)"
