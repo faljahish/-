@@ -1,0 +1,15 @@
+title	year	url	reason
+Law No. 194 of 2020 – English translation	2020	https://eg.andersen.com/wp-content/uploads/2025/07/banking-law-no-194-of-2020.pdf	Only unofficial law-firm translation exists; not an official text (rule: law-firm copies only if official text)
+CBE Bitcoin press release (Jan 2018) – English PDF	2018	https://www.cbe.org.eg/-/media/project/cbe/listing/news/english/files/bitcoin-pr_273_en.pdf	Server WAF returned HTML rejection page (403/Request Rejected); Arabic version downloaded
+CBE warning statements on crypto – Jan 2021 and other undated warnings	2019-2021	https://www.cbe.org.eg/ar/news-publications/news	Not present in CBE news API listing (only 2018, Sep 2022 and Mar 2023 crypto statements found)
+CBE site search results	n/a	https://www.cbe.org.eg/en/search-results	WAF 'Request Rejected' for search and headless browser; used /api/listing/News instead
+CBE Executive Regulations of AML Law (amended 2023)	2023	https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/aml-and-cft/laws/	Returned HTML not PDF; not crypto-specific
+Law No. 5 of 2022 FinTech – English translation	2022	https://eg.andersen.com/wp-content/uploads/2025/12/Law-No.-5-of-2022.pdf	Unofficial law-firm translation; Arabic official texts downloaded
+FRA Decree 139/2023 (2025 re-upload) and 141/2023 Gazette version	2023	https://fra.gov.eg/wp-content/uploads/2025/01/	Duplicates of versions already downloaded
+FRA crypto-risk bulletin duplicates (Aug 2021 '-1' copy, Mar 2024 re-post)	2021-2024	https://fra.gov.eg/wp-content/uploads/2024/03/	Byte-identical to Aug 2021 bulletin; deleted as duplicates
+FRA tokenization sandbox approvals (Tarmeez / Granite) – press items	2024-2025	https://fra.gov.eg/	Only reported in news; no official PDF found
+EMLCU (Egyptian Money Laundering and Terrorist Financing Combating Unit) documents on virtual assets	2019-2026	https://www.mlcu.org.eg/	Site returns only a shell/subscribe page to curl and blocks headless browser; no VA documents located
+Dar al-Ifta Bitcoin fatwa – English version	2017	https://www.dar-alifta.org/en	Not located; Arabic fatwa rendered from official HTML
+Egyptian academic research on crypto regulation (EKB journals, e.g. jlr.journals.ekb.eg article 377517)	2023-2025	https://jlr.journals.ekb.eg/article_377517_dbd74034129d73847cd4d38ab034a43e.pdf	journals.ekb.eg connections reset by proxy (ws_closed_mid_exchange)
+FATF/MENAFATF Mutual Evaluation of Egypt (2021) (R.15 VA)	2021	https://www.fatf-gafi.org/	fatf-gafi.org Cloudflare challenge (403); menafatf.org 404
+Egyptian Official Gazette text of FRA decrees 140/141 (original 2023 publication)	2023	https://fra.gov.eg/wp-content/uploads/2023/07/	Consolidated (latest amendment) versions downloaded instead
