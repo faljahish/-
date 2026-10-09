@@ -1,0 +1,26 @@
+title	year	url	reason
+Ley de Emision de Activos Digitales - CNAD transparency copy	2023	https://transparencia.gob.sv/descarga_archivo.php?id=NjEwNDkx&inst=610491	server returned non-PDF (binary/archive) data; DO and CSJ copies downloaded instead
+Ley del Fideicomiso Bitcoin - Alcaldia Usulutan transparency copy	2021	https://transparencia.gob.sv/institutions/alc-usulutan/documents/450425/download	non-PDF data returned; DO and CSJ copies downloaded instead
+Reformas a la Ley de Emision de Activos Digitales (approved 3 Oct 2024; BSP registry, AML, custody)	2024	https://diario.elmundo.sv/politica/asamblea-aprobo-reformas-a-ley-de-emision-de-activos-digitales	decree number/DO date not found; Diario Oficial issues 1 Oct-15 Dec 2024 and 16 Dec 2024-29 Jan 2025 scanned, no match in sumarios
+Ley Bitcoin consolidated text (post-D.199) and decree index at Asamblea Legislativa	2025	https://www.asamblea.gob.sv/	asamblea.gob.sv TLS verification failure (not bypassed); D.199 obtained via Diario Oficial
+CNAD website normativa (cnad.gob.sv)	2025	https://cnad.gob.sv/	403 Forbidden; CNAD documents obtained via transparencia.gob.sv
+bitcoin.gob.sv (Oficina Nacional del Bitcoin) documents	2025	https://www.bitcoin.gob.sv/	CONNECT 502
+Ley Fintech / sandbox law	2025	n/a	no enacted "Ley Fintech" found on jurisprudencia.gob.sv; related Ley de Bancos de Inversion (2025) and Ley de Fondos de Inversion Privados Alternativos (2025) downloaded
+Decreto 374 (2025) Regimen especial ... capacidad tecnica	2025	https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2025/08/10CAF8.PDF	downloaded-then-removed: only 1 incidental digital-asset mention
+SSF/BCR Normas tecnicas autorizacion Bancos de Inversion; NRP-30/35/36	2025	https://transparencia.gob.sv/	checked; scanned/no text or no bitcoin content
+BCR "Lanzamiento de Oficina" document	2022	https://www.bcr.gob.sv/documental/public/docs/9055b84f97abd3fd8d635d5a4e90fdf1.pdf	only 1 bitcoin mention; not kept
+Are cryptocurrencies currencies? Bitcoin as legal tender in El Salvador (Science 382, 2023)	2023	https://www.science.org/doi/10.1126/science.add2844	paywalled; NBER WP versions downloaded
+BFI Working Paper 2022-54 (same paper)	2022	https://bfi.uchicago.edu/wp-content/uploads/2022/04/BFI_WP_2022-54.pdf	downloaded-then-removed as duplicate of NBER rev0
+SSRN 4094160 (Alvarez, Argente, Van Patten)	2022	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4094160	SSRN 403 (duplicate of NBER anyway)
+The Rise and Fall of Bitcoin as Legal Tender: An Analysis of El Salvador's Experiment (D. Krause)	2025	https://papers.ssrn.com/sol3/Delivery.cfm/5164544.pdf?abstractid=5164544&mirid=1&type=2	SSRN 403
+The Political Consequences of Monetary Instability: Evidence from Bitcoin Adoption in El Salvador (An, Lin, Xu)	2026	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6546199	SSRN 403
+El Salvador: an analysis of the monetary integration law and the bitcoin law (Nanez Alonso, Rev. Econ. Politica 44(1))	2024	https://www.scielo.br/j/rep/a/X8XQfcvnqyfLrLKTZMmjgBv/?format=pdf&lang=en	SciELO 403
+Bitcoin as Tool for Financial Inclusion in El Salvador: The Perils of Authoritarian Governance (Meijering, Rosales, JPLA)	2025	https://journals.sagepub.com/doi/pdf/10.1177/1866802X251316902	SAGE 403
+Two legal tenders, no currency. El Salvador's bitcoin adoption between world money and international money	2025	https://www.sciencedirect.com/science/article/pii/S2949694225000100	ScienceDirect 403
+Financial and market risks of bitcoin adoption as legal tender: evidence from El Salvador	2024	https://www.researchgate.net/publication/385139722	ResearchGate blocks download
+El Salvador's Bitcoin Bond is Finally Here! (D. Notaris, Cardozo ICLR online)	2023	https://larc.cardozo.yu.edu/cgi/viewcontent.cgi?article=1107&context=ciclr-online	403
+PwC: El Salvador's law - a meaningful test for Bitcoin	2021	https://www.pwc.com/gx/en/financial-services/pdf/el-salvadors-law-a-meaningful-test-for-bitcoin.pdf	403
+Bitcoin as a legal tender: The Case of El Salvador (Georgia Southern honors thesis); SCU ethics student paper	2023	https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=2006&context=honors-theses	student work; not collected
+IDB / World Bank documents on El Salvador bitcoin	2022	https://publications.iadb.org/	IDB hosts 403; World Bank documents API returned no El Salvador bitcoin documents (WB declined to assist bitcoin rollout - press only)
+BCR remittance statistics on crypto wallets	2024	https://www.bcr.gob.sv/	data tables/press only; no dedicated PDF report found
+IMF press releases / staff statements (e.g., PR 25/223, Dec 2025 staff statement)	2025	https://www.imf.org/en/news/articles/2025/06/27/imf-concludes-2025-article-iv-consultation-and-first-review-under-the-eff-for-el-salvador	imf.org 403; HTML only (content included in country reports downloaded)
