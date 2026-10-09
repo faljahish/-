@@ -1,0 +1,11 @@
+title	year	url	reason
+CBB Rulebook (rulebook.cbb.gov.bh) originals	2019-2026	https://rulebook.cbb.gov.bh/	CONNECT to host fails via proxy; same CBB rulebook PDFs taken from official CBB rulebook mirror cbben.thomsonreuters.com and cbb.gov.bh
+CBB Rulebook Volume 6 CRA/SIO modules – Arabic versions	2019-2025	https://cbben.thomsonreuters.com/	No Arabic rulebook mirror reachable (cbbar/cbb-ar hosts not resolvable); Arabic gazette resolutions downloaded instead
+CBB Vol 6 Appendix A/B (NIST cyber framework, cyber incident report) for CRA (2023) and SIO (2025)	2023-2025	https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_6_SIO_Appendix_A-NIST_Cyber_Security_Framework_July_2025.pdf	Generic cyber-security templates, not crypto-specific; skipped
+CBB consultation (Dec 2018) – draft crypto-asset platform operator rules	2018	https://www.cbb.gov.bh/consultations/	Not listed on current consultations page; not found elsewhere
+CBB consultation 2022/2023 appendices (CRA-1..4, cyber appendices, Appendix CA-24)	2022-2023	https://www.cbb.gov.bh/consultations/	Final 2023 versions of CRA-1..4 already downloaded from rulebook; draft duplicates skipped
+CBB consultation 2024 SIO appendices (C, D, E, A, B) – draft versions	2024	https://www.cbb.gov.bh/consultations/	Final July 2025 versions downloaded instead
+Bahrain National Risk Assessment – virtual asset sectoral risk assessment	2021-2026	https://www.cbb.gov.bh/compliance/	No standalone VA sectoral assessment found; updated public NRA (incl. VA/VASP analysis) downloaded
+FATF/MENAFATF Mutual Evaluation of Bahrain (2018) and follow-ups (R.15)	2018-2022	https://www.fatf-gafi.org/	fatf-gafi.org behind Cloudflare challenge (403); menafatf.org returns 404
+CBB press releases on crypto/CBDC (other than bahrain.bitcoin warning)	2018-2026	https://www.cbb.gov.bh/media-center/	HTML-only; only the crypto-specific 2020 warning was rendered
+CBB Resolutions granting crypto licences 2019-2023 (e.g., Rain, Binance, CoinMENA) in Official Gazette	2019-2023	https://www.lloc.gov.bh/PDF/	Automated scan of LLOC CBB resolutions RBCB01-60 for 2019-2023 found no further crypto-related hits (OCR-less text matching); may exist under other numbering
