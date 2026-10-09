@@ -1,0 +1,19 @@
+title	year	url	reason
+Regulation (EU) 2023/1114 (MiCA) - Arabic version	2023	https://eur-lex.europa.eu/eli/reg/2023/1114/oj	does not exist: Arabic is not an official EU language (EN downloaded; FR not requested)
+EP adopted text P9_TA(2023)0117 MiCA (doceo PDF with full consolidated position)	2023	https://www.europarl.europa.eu/doceo/document/TA-9-2023-0117_EN.pdf	europarl doceo returns 202 JS challenge; OJ C version (C/2023/465) downloaded instead
+EP adopted text P9_TA(2023)0118 TFR recast (doceo PDF)	2023	https://www.europarl.europa.eu/doceo/document/TA-9-2023-0118_EN.pdf	europarl doceo returns 202 JS challenge; OJ C version (C/2023/466) downloaded instead
+EP adopted text P9_TA(2022)0088 DLT Pilot (doceo PDF)	2022	https://www.europarl.europa.eu/doceo/document/TA-9-2022-0088_EN.pdf	europarl doceo returns 202 JS challenge; OJ C 361 version downloaded instead
+ESMA interim MiCA register - CASPs.csv	2024-2026	https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv	not a PDF (CSV data file, updated continuously)
+ESMA interim MiCA register - NCASP.csv (non-compliant entities)	2024-2026	https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv	not a PDF (CSV)
+ESMA interim MiCA register - ARTZZ.csv (ART issuers)	2024-2026	https://www.esma.europa.eu/sites/default/files/2024-12/ARTZZ.csv	not a PDF (CSV)
+ESMA interim MiCA register - EMTWP.csv (EMT white papers)	2024-2026	https://www.esma.europa.eu/sites/default/files/2024-12/EMTWP.csv	not a PDF (CSV)
+ESMA interim MiCA register - OTHER.csv (other crypto-asset white papers)	2024-2026	https://www.esma.europa.eu/sites/default/files/2024-12/OTHER.csv	not a PDF (CSV)
+ESMA interim MiCA register - Description of the fields	2024	https://www.esma.europa.eu/sites/default/files/2024-12/Description_of_the_fields_in_the_interim_MiCA_register.csv	not a PDF (CSV); register PDFs (competent authorities, grandfathering, complaints links) downloaded
+ESMA MiCA Q&As	2024-2026	https://www.esma.europa.eu/publications-and-data/questions-answers	published only in ESMA's online Q&A tool (HTML per question, e.g. ESMA_QA_2220, 2463); no PDF compilation
+ESMA DLT Pilot Regime Q&As	2023-2025	https://www.esma.europa.eu/publications-and-data/questions-answers	online Q&A tool only; no PDF located
+ESMA MiCA taxonomy formulas	2025	https://www.esma.europa.eu/sites/default/files/2025-08/mica_taxonomy_formulas_202507.xlsx	not a PDF (XLSX)
+EBA MiCAR reporting templates (Annex 4)	2024	https://www.eba.europa.eu/sites/default/files/2024-10/22acc719-d72d-4cf7-a249-33e0b3fee415/Annex%204%20reporting%20for%20issuers%20of%20ARTs%20and%20EMTs%20-%20templates.xlsx	not a PDF (XLSX)
+ESMA fast-track peer review on CASP authorisation (Malta MFSA) - full report	2025	https://www.esma.europa.eu/press-news/esma-news/esma-identifies-opportunities-strengthen-mica-authorisations	full report PDF URL not located (only press release / executive summary references)
+EBA Guidelines in other EU languages (translations of MiCA/TFR guidelines)	2024-2025	https://www.eba.europa.eu/regulation-and-policy/asset-referenced-and-e-money-tokens-mica	intentionally skipped: non-English translations; EN final reports containing the guidelines downloaded
+DORA Level 2 acts (Del/Impl Regs 2024/1502, 2024/1505, 2024/1772, 2024/1773, 2024/1774, 2024/2956, 2025/295, 2025/301, 2025/302, 2025/420, 2025/532, 2025/1190)	2024-2025	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554	out of scope (request covered DORA itself and MiCA RTS/ITS); available from EUR-Lex PDF endpoint
+Commission Delegated Regulation on MiCA RTS adopted after Oct 2025 (if any)	2025-2026	https://eur-lex.europa.eu	none found in CELLAR SPARQL (acts based on / titled 2023/1114) as of 2026-10-09
