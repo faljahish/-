@@ -1,0 +1,19 @@
+title	year	url	reason
+SKIPPED BY INSTRUCTION: QFCRA CP2023-03 Digital Assets consultation; QFC Digital Asset Regulations 2024; TSP Guidelines 2024; Digital Assets User Guide 2024	2023-2024	https://qfcra-en.thomsonreuters.com/	Already held by requester (skip list)
+QCB Circular No. 6 of 2018 – prohibition on dealing in Bitcoin/crypto (to banks/exchange houses)	2018	https://www.qcb.gov.qa/	qcb.gov.qa CONNECT fails via proxy; no official mirror found (Al Meezan also unreachable)
+QCB circulars/statements 2019-2020 reaffirming crypto prohibition	2019-2020	https://www.qcb.gov.qa/	qcb.gov.qa unreachable; no mirror
+QCB Digital Assets / tokenisation framework documents (2024-2025)	2024-2025	https://www.qcb.gov.qa/	qcb.gov.qa unreachable; no official PDF found elsewhere (QFC framework documents downloaded instead)
+QCB Qatar FinTech Strategy 2023	2023	https://www.qcb.gov.qa/	qcb.gov.qa unreachable; QNA coverage blocked for headless and JS-only for curl
+QCB Third Financial Sector Strategic Plan (2023)	2023	https://www.qcb.gov.qa/	qcb.gov.qa unreachable
+QCB CBDC project documents (wholesale CBDC pilot 2024)	2022-2025	https://www.qcb.gov.qa/	qcb.gov.qa unreachable; QNA article pages blocked/JS-only
+QFCRA alert 'Virtual Asset Services' (26 Dec 2019) – PDF	2019	https://qfcra-en.thomsonreuters.com/sites/default/files/net_file_store/Virtual_Asset_Services-Email_ _2019.pdf	Linked file returns 404 on rulebook mirror; qfcra.com page body is empty
+QFC Digital Assets Lab overview (14 Dec 2023)	2023	https://www.qfc.qa/-/media/project/qfc/qfcwebsite/digital-assets-lab/digital-assets-14122023.pdf	404 (moved/removed)
+QFCRA Investment Tokens Rules 2024 – RM/2024-2 instrument version (effective 1 Aug 2024)	2024	https://qfcra-en.thomsonreuters.com/sites/default/files/net_file_store/Investment_Tokens_Rules_2024_Ver1.pdf	Near-duplicate of TOKN v1 (effective 1 Sep 2024) already downloaded
+QFC Digital Asset Regulations 2024 – enactment signature pages (DA, Contract, Special Company, Companies Regulations)	2024	https://qfcra-en.thomsonreuters.com/rulebook/2024-2	Signature pages only; not substantive
+QFC Digital Asset Regulations 2024 / Investment Token Rules – Arabic versions	2024	https://qfcra-ar.thomsonreuters.com/	Arabic rulebook host not resolvable
+Qatar National Risk Assessment (ML/TF) incl. virtual assets	2019-2024	https://www.nrsc.gov.qa/ ; https://www.qfiu.gov.qa/	Hosts unreachable via proxy (CONNECT fails)
+Law No. 20 of 2019 on AML/CFT and its Implementing Regulations (Council of Ministers Decision 41/2019)	2019	https://www.qfcra.com/aml-law-and-legislation/	Downloaded and checked: no virtual-asset provisions in text, so removed as off-topic
+FATF Mutual Evaluation of Qatar (2023) – R.15 virtual assets	2023	https://www.fatf-gafi.org/en/publications/Mutualevaluations/MER-Qatar-20230.html	fatf-gafi.org Cloudflare challenge (403)
+QFMA statements on crypto/tokenisation	2018-2026	https://www.qfma.org.qa/	No crypto/VA statements found; QFMA site search/news are JS-templated
+QNA official news on QCB fintech strategy / CBDC pilot	2023-2024	https://www.qna.org.qa/	Headless browser blocked by WAF ('Web Page Blocked'); article body not in static HTML
+QFC 'From Regulation to Realisation' Arabic version; QFC Arabic press releases	2024-2025	https://www.qfcra.com/?lang=ar	Arabic pages (?lang=ar) served English content; not kept
