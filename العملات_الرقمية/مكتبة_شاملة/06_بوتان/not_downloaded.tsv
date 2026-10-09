@@ -1,0 +1,22 @@
+title	year	url	reason
+RMA Regulatory Sandbox Framework for Mining Cryptocurrency	2019	https://www.rma.org.bt/	rma.org.bt unreachable (CONNECT 502 / TLS cert verification failure); text never published in full per secondary sources; no mirror found
+RMA notice "RMA's Regulatory Stance on Cryptocurrency" (crypto mining/exchanges limited to GMC entities)	2025	https://www.rma.org.bt/	rma.org.bt unreachable; no official mirror found (only secondary summaries)
+RMA Fintech Regulatory Sandbox / virtual asset guidelines, AML/CFT Regulations 2025	2024	https://www.rma.org.bt/media/Laws_By_Laws/	rma.org.bt unreachable (TLS failure); IMF TA report on the sandbox downloaded instead
+RMA FIU (rmafiu.rma.org.bt / fiu.gov.bt) virtual asset AML guidance	2025	https://www.fiu.gov.bt/	host CONNECT 502
+National Digital Identity Act of Bhutan 2023	2023	https://parliament.bt/uploads/topics/16920888542499.pdf	parliament.bt TLS certificate expired (not bypassed); http redirects to https; Wayback unavailable (429/connection reset)
+National Digital Identity Act 2023 (alt copy)	2023	https://parliament.bt/uploads/topics/17049488557050.pdf	parliament.bt TLS certificate expired
+NDI Bill / National Assembly records	2023	https://nab.gov.bt/post/national-digital-identity-bill-of-bhutan-2023	nab.gov.bt TLS verification failure
+NDI technical docs (ndi.gov.bt / GovTech)	2025	https://www.ndi.gov.bt/	host CONNECT 502; no official PDF found
+IMF Bhutan 2023 Article IV staff report	2023	https://www.elibrary.imf.org/	does not exist: no 2023 Article IV published (2022 CR 22/146 then 2024 CR 24/298); 2022 report downloaded-then-removed (no crypto content)
+IMF Bhutan 2025 Article IV (CR 26/19) is the 2025 consultation	2025	https://www.elibrary.imf.org/view/journals/002/2026/019/002.2026.issue-019-en.xml	note only - downloaded as BT_2026_IMF_ArticleIV2025_CR26-19.pdf
+IMF Bhutan TA - Development of an Interest Rate Corridor Framework	2025	https://www.elibrary.imf.org/view/journals/019/2025/021/019.2025.issue-021-en.xml	off-topic (no crypto)
+DHI Annual Reports 2019-2022	2022	https://dhi.bt/content/publication/2025/Annual-Report-2022.pdf	no bitcoin/digital-asset content (2019-2021 text-checked; 2022 is image-only with no text layer)
+DHI digital assets strategy page	2025	https://www.dhi.bt/our-strategy/investment-strategy/digital-assets	HTML page only, no PDF
+Green Cryptocurrency: A Case Study of Bhutan's Hydropower Based Mining and Cryptocurrency (D.B. Poudel)	2025	https://www.researchgate.net/publication/394888798	ResearchGate blocks automated download
+ORF: Bhutan's crypto mining bets - decoding economic and foreign policy implications	2024	https://www.orfonline.org/expert-speak/bhutan-s-crypto-mining-bets-decoding-economic-and-foreign-policy-implications	HTML article only, no PDF
+World Bank Bhutan Development Update (edition with US$539m crypto-investment figure, if separate from Apr 2024)	2023	https://documents.worldbank.org/	not located in WB documents API beyond Apr 2024 BDU (downloaded)
+World Bank "Bhutan's Aspirations" policy note / Macro Poverty Outlook Apr 2023	2025	https://documents.worldbank.org/curated/en/099021225000523577/pdf/P503407194ddef04a1a3931bd2cf2b5c576.pdf	checked; 0-1 crypto mentions, not kept
+ADB Asian Development Outlook Apr 2023: Bhutan	2023	https://www.adb.org/sites/default/files/publication/863591/bhu-ado-april-2023.pdf	checked; no crypto content
+APG/FATF follow-up reports on Bhutan (2021, 2023)	2023	https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-fur/Bhutan-APG-FUR-2023.pdf.coredownload.inline.pdf	fatf-gafi.org returned HTML bot challenge, not PDF
+ADGM FSMR / digital-asset rules applied in GMC Phase One	2025	https://en.adgm.thomsonreuters.com/	ADGM (Abu Dhabi) texts, not Bhutanese publications; not collected
+GMC non-financial statutes (Companies, Income Tax, Customs, Employment, Partnership acts etc.)	2025	https://www.gmc.bt/legislation	downloaded-then-removed: no digital-asset content
