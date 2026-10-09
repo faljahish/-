@@ -1,0 +1,26 @@
+title	year	url	reason
+Cabinet Resolution No. 111/2022 – official PDF on UAE Legislation portal	2022	https://uaelegislation.gov.ae/	Host behind Cloudflare block/challenge (403) for this environment; substitutes kept: Lexis copy hosted by VARA + CMA official HTML rendered (EN/AR)
+Federal Decree-Law No. 10 of 2025 on AML/CFT/CPF (VA/VASP provisions) – official text	2025	https://uaelegislation.gov.ae/	uaelegislation.gov.ae blocked (Cloudflare); not found on CBUAE rulebook mirror; its Executive Regulations (Cabinet Res. 134/2025) were downloaded instead
+SCA Chairman Decision No. 23/RM of 2020 on Crypto Assets Activities Regulation	2020	https://www.unlock-bc.com/wordpress/wp-content/uploads/2021/08/Official-Copy_SCA-1.pdf	Not listed on SCA/CMA site (repealed 2023); only third-party copy found and it returned 403
+SCA Decision No. 26/RM of 2023 (VA Platform Operators) and No. 27/RM of 2023 (SCA Rulebook VA amendments)	2023	https://www.uaecma.gov.ae/en/regulations/regulations-listing	Not published on current CMA regulations listing (superseded by CMA Decision 04/RM/2026); no official mirror found
+SCA Fintech Regulatory Framework (sandbox, Decision 28/2018)	2018	https://www.uaecma.gov.ae/assets/download/11f1a7e8/fintech-regulatory-framework.aspx	File served as .docx, not PDF (no conversion tool used)
+VARA Rulebooks/Regulations – Arabic versions	2023-2025	https://rulebooks.vara.ae/	No Arabic PDFs published on rulebooks.vara.ae (ar paths 404)
+VARA VA & Related Activities Regulations 2023 – V.2 (5 Jun 2023)	2023	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_18_VER991.pdf	Intermediate superseded version; v1, v3, v4 and current kept
+VARA Company Rulebook – V.2 (5 Jun 2023)	2023	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_36_VER984.pdf	Intermediate superseded version; v1 and May 2025 kept
+VARA Market Conduct Rulebook – V.2 (1 Oct 2023)	2023	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_190_VER2.pdf	Intermediate superseded version
+VARA Custody Services Rulebook – V.2 (24 Aug 2023)	2023	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_243_VER1094_0.pdf	Intermediate superseded version
+VARA VA Management and Investment Services Rulebook – V.2 (1 Oct 2024)	2024	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_317_VER2.pdf	Intermediate superseded version
+VARA VA Issuance Rulebook – V.2 (19 Sep 2023)	2023	https://rulebooks.vara.ae/sites/default/files/en_net_file_store/VARA_EN_293_VER2.pdf	Intermediate superseded version
+VARA regulatory notices / news items (HTML-only pages)	2022-2026	https://www.vara.ae/en/regulations/regulatory-notices/	All attached PDFs were downloaded; HTML-only notice bodies not rendered
+CBUAE AML/CFT Guidance for LFIs on VA/VASP risks – Arabic version	2023	https://www.centralbank.ae/	No Arabic PDF located
+CBUAE Stored Value Facilities / Retail Payment Services & Card Schemes Regulations (crypto/payment-token references)	2020-2021	https://rulebook.centralbank.ae/	General payments regulations, only incidental crypto provisions; not downloaded
+ADGM FSRA Guidance on ICOs and Crypto Assets (25 Jun 2018 v1.1)	2018	https://assets.adgm.com/download/assets/guidance-icos-and-crypto-assets_20180625_v11.pdf/b087924e7f0311efa4f9466ec8648bb9	404 on ADGM asset store
+ADGM English versions of VA press releases	2017-2026	https://www.adgm.com/media/announcements	Only Arabic PDF attachments were linked; English text is HTML-only (not rendered)
+ADGM Updated UAE NRA FSRA Notice No. 37 of 2025 (cover notice)	2025	https://assets.adgm.com/download/assets/FCCP+-+Notice+No.+37+of+2025+-++Updated+UAE+National+ML-TF+Risk+Assessment+Report+-+Public+Version.pdf/436dcc0421b111f0b33486812e110d0d	Not downloaded (same NRA report already included)
+DFSA website originals (dfsa.ae) incl. Recognised Crypto Tokens list and Arabic media releases	2022-2026	https://www.dfsa.ae/	dfsa.ae behind Cloudflare challenge (403); DFSA documents taken from official DFSA rulebook mirror dfsaen.thomsonreuters.com
+DFSA CP143/CP153/CP168 remaining appendices (CIR, AML, FER, AMI, MKT, GLO, IFR, PIB, CMC, AUD)	2022-2025	https://dfsaen.thomsonreuters.com/rulebook/consultation-papers	Main papers plus GEN/COB (and law) appendices kept; other appendices not downloaded
+DFSA CP143 Appendix 1 – Amendments to Regulatory Law	2022	https://dfsaen.thomsonreuters.com/sites/default/files/net_file_store/CP143_Appendix_1_Amendments_to_Regulatory_Law.pdf	Valid PDF but only 26.9 KB (<30 KB threshold) – deleted per rule
+UAE National Risk Assessment specific to Virtual Assets (2024)	2024	https://www.namlcftc.gov.ae/	No standalone public VA NRA found; namlcftc.gov.ae behind Cloudflare; the Updated National ML/TF NRA (with VA sector section) and PF NRA 2026 were downloaded
+FATF/MENAFATF Mutual Evaluation of UAE (2020) and follow-up reports (R.15 VA ratings)	2020-2024	https://www.fatf-gafi.org/	fatf-gafi.org behind Cloudflare challenge (403)
+BIS Project mBridge reports (CBUAE participant)	2022-2024	https://www.bis.org/publ/othp59.pdf	bis.org returned a JavaScript challenge page instead of PDF
+Dubai Law No. 4 of 2022 – Arabic PDF (Official Gazette)	2022	https://dlp.dubai.gov.ae/	Only HTML text available; rendered to PDF instead (see manifest)
